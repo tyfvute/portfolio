@@ -1,15 +1,16 @@
 # Портфолио
 
-я хз че писатьт
+Изучаю разлмчеые языки программирование (Python, C#)
+
 
 ---
 # Мои репозитории
 
-[Портфолио](https://github.com/tyfvute/portfolio)
+[Телеграмм бот](https://github.com/tyfvute/TG-ReminderBot)
 ---
 
 ---
 # Картинки
 
-![ктото]("артем.jpg")
+![ктото]("images/SomeScreenshot")
 ---
