@@ -12,5 +12,5 @@
 ---
 # Картинки
 
-![ктото]("images/SomeScreenshot")
+![ктото]("images/somescreenshot.jpg")
 ---
